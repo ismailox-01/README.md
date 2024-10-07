@@ -12,5 +12,5 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://discord.gg/pgkd22yBfE">Discord Server</a>
+    <a href="https://discord.gg/xjmUxKHAv8">Discord Server</a>
 
