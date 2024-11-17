@@ -12,7 +12,7 @@
 
 <p align="center">
 Currently learning 
-    <span style="color: #ffbb00;">JavaScript</span> | 
+    <strong style="color: #ffbb00;">JavaScript</strong> | 
     <span style="color: #ffbb00;">HTML</span> | 
     <span style="color: #ffbb00;">CSS</span> | 
     <span style="color: #ffbb00;">CYBER SECURITY</span> | 
