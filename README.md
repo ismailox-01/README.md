@@ -9,6 +9,9 @@
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
 </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username="ismailox-01"&color=yellow">
+</p>
 <p align="center">
 Currently learning 
     <span style="color: #ffbb00;">JavaScript</span> | 
