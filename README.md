@@ -3,7 +3,7 @@
 </p>
 <p align="center">
     <span style="color: #ffbb00;">ismailox-01</span>
-</p>
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=ffbb00">
 </p>
     <p align="center">
