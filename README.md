@@ -4,7 +4,7 @@
 <p align="center">
     ismailox-01
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=ismailox-01&color=c28f02">
+<img src="https://komarev.com/ghpvc/?username=ismailox-01&color=ffbb00">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
