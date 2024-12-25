@@ -19,8 +19,8 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
 </p>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xjmUxKHAv8) 
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xjmUxKHAv8) 
 </div>
 
 <h2 align="left">💫 I am currently learning (•_•) 💫</h2>
