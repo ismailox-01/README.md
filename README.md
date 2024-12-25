@@ -4,10 +4,8 @@
 
 <div align="center">
     
-## 👁️‍🗨️ visitors
-<p align="center">
-    <span style="color: #ffbb00;">ismailox-01</span>
-<p align="center"> 
+## 👁️‍🗨️ VISITORS 👁️‍🗨️
+<p> 
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
 </p>
 
