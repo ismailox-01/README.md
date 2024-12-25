@@ -20,7 +20,7 @@ Currently learning
 <p align="center">
     <a href="https://discord.gg/xjmUxKHAv8">Discord Server</a>
 
-<h2 align="left">👋 Hey there!(•_•)</h2>
+<h2 align="left">I am currently learning (•_•)</h2>
 
 ###
 
