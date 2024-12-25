@@ -20,11 +20,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xjmUxKHAv8) 
 </div>
 
-<div align="center">
-    
-<h2 align="left">💫 I am currently learning (•_•) 💫</h2>
-
-</div>
+<h2 align="center">💫 I am currently learning (•_•) 💫</h2>
 
 ###
 
