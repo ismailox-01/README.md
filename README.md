@@ -9,6 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=ismailox-01&icon=5&color=12)](https://visitcount.itsvg.in)
+
 </div>
 
 <div align="center">
@@ -82,6 +84,4 @@
   ## 💰 You can help me by Donating 💰
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/ismailox_01) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
