@@ -5,7 +5,6 @@
     <span style="color: #ffbb00;">ismailox-01</span>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
-<img src="https://komarev.com/ghpvc/?username=ismailox-01&icon=5&color=yellow">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
