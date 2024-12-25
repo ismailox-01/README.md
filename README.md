@@ -1,14 +1,14 @@
 <p align="center">  
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
-
+<div align="center">
 ## 👁️‍🗨️ visitors
 <p align="center">
     <span style="color: #ffbb00;">ismailox-01</span>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
 </p>
-
+</div>
 <div align="center">
 
 ###
