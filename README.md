@@ -5,12 +5,7 @@
 <div align="center">
     
 ## 👁️‍🗨️ PROFILE VISITORS 👁️‍🗨️
-<p> 
-<img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=ismailox-01&icon=5&color=12)](https://visitcount.itsvg.in)
-
 </div>
 
 <div align="center">
