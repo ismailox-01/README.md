@@ -67,6 +67,7 @@ Currently learning
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailox-01&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=ismailox-01&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -84,3 +85,4 @@ Currently learning
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+</div>
