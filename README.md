@@ -19,9 +19,9 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xjmUxKHAv8) 
 </div>
-
+<div align="center">
 <h2 align="left">💫 I am currently learning (•_•) 💫</h2>
-
+</div>
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611c1s04ddhkedfxrnbyhf9fyz4pe4pjwyu543qh4y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
