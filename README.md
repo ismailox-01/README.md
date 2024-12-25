@@ -7,16 +7,14 @@
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
 </p>
 
+<div align="center">
 ###
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xjmUxKHAv8) 
-
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
 </p>
-
-
+</div>
 
 <h2 align="left">💫 I am currently learning (•_•)</h2>
 
