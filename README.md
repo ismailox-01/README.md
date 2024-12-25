@@ -10,15 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
 </p>
 
-<p align="center">
-Currently learning 
-    <strong style="color: #ffbb00;">JavaScript</strong> | 
-    <span style="color: blueviolet;">HTML</span> | 
-    <span style="color: #ffbb00;">CSS</span> | 
-    <span style="color: #ffbb00;">CYBER SECURITY</span> | 
-    <span style="color: #ffbb00;">PYTHON</span>
-<p align="center">
-    <a href="https://discord.gg/xjmUxKHAv8">Discord Server</a>
+
 
 <h2 align="left">💫 I am currently learning (•_•)</h2>
 
