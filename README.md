@@ -5,6 +5,7 @@
     <span style="color: #ffbb00;">ismailox-01</span>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ismailox-01&color=yellow">
+<img src="https://komarev.com/ghpvc/?username=ismailox-01&icon=5&color=yellow">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/945466969094778940.png"/>
@@ -74,6 +75,7 @@ Currently learning
 ![](https://github-contributor-stats.vercel.app/api?username=ismailox-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ismailox-01&icon=5&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
